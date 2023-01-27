@@ -20,7 +20,9 @@
 16. Leave standard logging and IPV6 setting as default. 
 17. Now create the distribution. 
 
+# More Details
 It would take up to 15 minutes for the CloudFront DNS to be able to receive traffic.
 
 Since Cloudfront allows for 1 TB of data transfer out per month and 10,000,000 HTTP or HTTPS Requests per month . I would add my cloudfront DNS here. This distribution would be deleted a week from today. 
 
+ [Link to Distribution](https://d10vqpx38vp9v5.cloudfront.net/)
