@@ -1,4 +1,5 @@
 # How to setup S3 bucket with CloudFront
+![A user requesting for static files from a cloudfront distribution. A user requesting for static files from an s3 bucket and getting an error. ](https://github.com/blackxavier/static-website-delivered-by-cloudfront/blob/main/s3-cloudfront-Page-1.drawio.png "Infrastructure image ")
 
 
 1. Create an S3 bucket, enable versioning
