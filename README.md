@@ -1,7 +1,7 @@
-# How to setup s3 bucket with CloudFront
+# How to setup S3 bucket with CloudFront
 
 
-1. Create an s3 bucket, enable versioning
+1. Create an S3 bucket, enable versioning
 2. Do not edit any permissions, enable bucket for static hosting
 3. Create a distribution on CloudFront. 
 4. Pick the origin domain as the s3 bucket, it would automatically use the bucket name as the name of the origin. 
